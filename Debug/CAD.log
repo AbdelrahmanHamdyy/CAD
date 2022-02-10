@@ -1,0 +1,16 @@
+﻿  active.cpp
+  Component.cpp
+  Main.cpp
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(230,91): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(232,91): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(236,54): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(260,35): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(265,90): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(266,90): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(277,44): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(296,81): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(297,81): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\Circuits Project\Circuits Project\CAD\Main.cpp(384,20): warning C4018: '<': signed/unsigned mismatch
+  passive.cpp
+  Generating Code...
+  CAD.vcxproj -> D:\Circuits Project\Circuits Project\Debug\CAD.exe
